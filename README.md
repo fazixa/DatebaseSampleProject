@@ -1,1 +1,1 @@
-### A sample implementation of server side for database course projectbuilt with Node.js
+### A sample implementation of server side for database course project built with Node.js
